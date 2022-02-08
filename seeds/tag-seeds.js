@@ -23,7 +23,7 @@ const tagData = [
     tag_name: 'stones',
   },
   {
-    tag_name: 'palm reading',
+    tag_name: 'wizard skart collections of oddities',
   },
 ];
 

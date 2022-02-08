@@ -3,7 +3,7 @@ const { ProductTag } = require('../models');
 const productTagData = [
   {
     product_id: 1,
-    tag_id: 1,
+    tag_id: 3,
   },
   {
     product_id: 1,
